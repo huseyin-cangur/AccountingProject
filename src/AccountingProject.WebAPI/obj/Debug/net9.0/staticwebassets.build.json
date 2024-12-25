@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "QaiydaUAdwIgPGWX/0rFKmkwhrEJJ9gZmVud+jmaeNg=",
+  "Source": "AccountingProject.WebAPI",
+  "BasePath": "_content/AccountingProject.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

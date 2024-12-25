@@ -1,0 +1,12 @@
+C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\Core\AccountingProject.Domain\bin\Debug\net9.0\AccountingProject.Domain.deps.json
+C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\Core\AccountingProject.Domain\bin\Debug\net9.0\AccountingProject.Domain.dll
+C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\Core\AccountingProject.Domain\bin\Debug\net9.0\AccountingProject.Domain.pdb
+C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\Core\AccountingProject.Domain\obj\Debug\net9.0\AccountingProject.Domain.csproj.AssemblyReference.cache
+C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\Core\AccountingProject.Domain\obj\Debug\net9.0\AccountingProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\Core\AccountingProject.Domain\obj\Debug\net9.0\AccountingProject.Domain.AssemblyInfoInputs.cache
+C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\Core\AccountingProject.Domain\obj\Debug\net9.0\AccountingProject.Domain.AssemblyInfo.cs
+C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\Core\AccountingProject.Domain\obj\Debug\net9.0\AccountingProject.Domain.csproj.CoreCompileInputs.cache
+C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\Core\AccountingProject.Domain\obj\Debug\net9.0\AccountingProject.Domain.dll
+C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\Core\AccountingProject.Domain\obj\Debug\net9.0\refint\AccountingProject.Domain.dll
+C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\Core\AccountingProject.Domain\obj\Debug\net9.0\AccountingProject.Domain.pdb
+C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\Core\AccountingProject.Domain\obj\Debug\net9.0\ref\AccountingProject.Domain.dll

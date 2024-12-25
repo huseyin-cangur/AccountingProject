@@ -1,0 +1,11 @@
+C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\External\AccountingProject.Presentation\bin\Debug\net9.0\AccountingProject.Presentation.deps.json
+C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\External\AccountingProject.Presentation\bin\Debug\net9.0\AccountingProject.Presentation.dll
+C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\External\AccountingProject.Presentation\bin\Debug\net9.0\AccountingProject.Presentation.pdb
+C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\External\AccountingProject.Presentation\obj\Debug\net9.0\AccountingProject.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\External\AccountingProject.Presentation\obj\Debug\net9.0\AccountingProject.Presentation.AssemblyInfoInputs.cache
+C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\External\AccountingProject.Presentation\obj\Debug\net9.0\AccountingProject.Presentation.AssemblyInfo.cs
+C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\External\AccountingProject.Presentation\obj\Debug\net9.0\AccountingProject.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\External\AccountingProject.Presentation\obj\Debug\net9.0\AccountingProject.Presentation.dll
+C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\External\AccountingProject.Presentation\obj\Debug\net9.0\refint\AccountingProject.Presentation.dll
+C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\External\AccountingProject.Presentation\obj\Debug\net9.0\AccountingProject.Presentation.pdb
+C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\External\AccountingProject.Presentation\obj\Debug\net9.0\ref\AccountingProject.Presentation.dll

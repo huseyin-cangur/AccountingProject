@@ -1,0 +1,17 @@
+C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\External\AccountingProject.Persistance\bin\Debug\net9.0\AccountingProject.Persistance.deps.json
+C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\External\AccountingProject.Persistance\bin\Debug\net9.0\AccountingProject.Persistance.runtimeconfig.json
+C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\External\AccountingProject.Persistance\bin\Debug\net9.0\AccountingProject.Persistance.dll
+C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\External\AccountingProject.Persistance\bin\Debug\net9.0\AccountingProject.Persistance.pdb
+C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\External\AccountingProject.Persistance\bin\Debug\net9.0\AccountingProject.Domain.dll
+C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\External\AccountingProject.Persistance\bin\Debug\net9.0\AccountingProject.Domain.pdb
+C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\External\AccountingProject.Persistance\obj\Debug\net9.0\AccountingProject.Persistance.csproj.AssemblyReference.cache
+C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\External\AccountingProject.Persistance\obj\Debug\net9.0\AccountingProject.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\External\AccountingProject.Persistance\obj\Debug\net9.0\AccountingProject.Persistance.AssemblyInfoInputs.cache
+C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\External\AccountingProject.Persistance\obj\Debug\net9.0\AccountingProject.Persistance.AssemblyInfo.cs
+C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\External\AccountingProject.Persistance\obj\Debug\net9.0\AccountingProject.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\External\AccountingProject.Persistance\obj\Debug\net9.0\Accounti.12DFDABA.Up2Date
+C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\External\AccountingProject.Persistance\obj\Debug\net9.0\AccountingProject.Persistance.dll
+C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\External\AccountingProject.Persistance\obj\Debug\net9.0\refint\AccountingProject.Persistance.dll
+C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\External\AccountingProject.Persistance\obj\Debug\net9.0\AccountingProject.Persistance.pdb
+C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\External\AccountingProject.Persistance\obj\Debug\net9.0\AccountingProject.Persistance.genruntimeconfig.cache
+C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\External\AccountingProject.Persistance\obj\Debug\net9.0\ref\AccountingProject.Persistance.dll
