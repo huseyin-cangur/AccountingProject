@@ -10,3 +10,4 @@ C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\Core\AccountingProject.
 C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\Core\AccountingProject.Domain\obj\Debug\net9.0\refint\AccountingProject.Domain.dll
 C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\Core\AccountingProject.Domain\obj\Debug\net9.0\AccountingProject.Domain.pdb
 C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\Core\AccountingProject.Domain\obj\Debug\net9.0\ref\AccountingProject.Domain.dll
+C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\Core\AccountingProject.Domain\obj\Debug\net9.0\AccountingProject.Domain.sourcelink.json

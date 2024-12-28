@@ -1,0 +1,16 @@
+C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\Core\AccountingProject.Application\bin\Debug\net9.0\AccountingProject.Application.deps.json
+C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\Core\AccountingProject.Application\bin\Debug\net9.0\AccountingProject.Application.dll
+C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\Core\AccountingProject.Application\bin\Debug\net9.0\AccountingProject.Application.pdb
+C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\Core\AccountingProject.Application\obj\Debug\net9.0\AccountingProject.Application.csproj.AssemblyReference.cache
+C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\Core\AccountingProject.Application\obj\Debug\net9.0\AccountingProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\Core\AccountingProject.Application\obj\Debug\net9.0\AccountingProject.Application.AssemblyInfoInputs.cache
+C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\Core\AccountingProject.Application\obj\Debug\net9.0\AccountingProject.Application.AssemblyInfo.cs
+C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\Core\AccountingProject.Application\obj\Debug\net9.0\AccountingProject.Application.csproj.CoreCompileInputs.cache
+C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\Core\AccountingProject.Application\obj\Debug\net9.0\AccountingProject.Application.sourcelink.json
+C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\Core\AccountingProject.Application\obj\Debug\net9.0\AccountingProject.Application.dll
+C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\Core\AccountingProject.Application\obj\Debug\net9.0\refint\AccountingProject.Application.dll
+C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\Core\AccountingProject.Application\obj\Debug\net9.0\AccountingProject.Application.pdb
+C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\Core\AccountingProject.Application\obj\Debug\net9.0\ref\AccountingProject.Application.dll
+C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\Core\AccountingProject.Application\bin\Debug\net9.0\AccountingProject.Domain.dll
+C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\Core\AccountingProject.Application\bin\Debug\net9.0\AccountingProject.Domain.pdb
+C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\Core\AccountingProject.Application\obj\Debug\net9.0\Accounti.4D6C26C6.Up2Date

@@ -9,9 +9,11 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="9.0.0"/>
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="9.0.0"/>
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.0"/>
-     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="9.0.0"/>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="9.0.0"/>
+    <PackageReference Include="AutoMapper" Version="13.0.1"/>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\..\Core\AccountingProject.Domain\AccountingProject.Domain.csproj"/>
+    <ProjectReference Include="..\..\Core\AccountingProject.Application\AccountingProject.Application.csproj"/>
   </ItemGroup>
 </Project>

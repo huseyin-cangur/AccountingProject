@@ -163,3 +163,10 @@ C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\AccountingProject.WebAP
 C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\AccountingProject.WebAPI\bin\Debug\net9.0\AccountingProject.Persistance.dll
 C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\AccountingProject.WebAPI\bin\Debug\net9.0\AccountingProject.Persistance.pdb
 C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\AccountingProject.WebAPI\bin\Debug\net9.0\AccountingProject.Domain.pdb
+C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\AccountingProject.WebAPI\obj\Debug\net9.0\AccountingProject.WebAPI.sourcelink.json
+C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\AccountingProject.WebAPI\bin\Debug\net9.0\AutoMapper.dll
+C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\AccountingProject.WebAPI\bin\Debug\net9.0\MediatR.dll
+C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\AccountingProject.WebAPI\bin\Debug\net9.0\MediatR.Contracts.dll
+C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\AccountingProject.WebAPI\bin\Debug\net9.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\AccountingProject.WebAPI\bin\Debug\net9.0\AccountingProject.Application.dll
+C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\AccountingProject.WebAPI\bin\Debug\net9.0\AccountingProject.Application.pdb
