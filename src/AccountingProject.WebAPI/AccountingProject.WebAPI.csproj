@@ -17,5 +17,6 @@
   <ItemGroup>
     <ProjectReference Include="..\External\AccountingProject.Presentation\AccountingProject.Presentation.csproj"/>
     <ProjectReference Include="..\External\AccountingProject.Persistance\AccountingProject.Persistance.csproj"/>
+    <ProjectReference Include="..\External\AccountingProject.InfraStructure\AccountingProject.InfraStructure.csproj"/>
   </ItemGroup>
 </Project>

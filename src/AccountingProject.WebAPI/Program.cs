@@ -1,59 +1,19 @@
 
 
-
-
-
-using AccountingProject.Application.Services.AppServices;
-using AccountingProject.Persistance.Context;
-using AccountingProject.Persistance.Services.AppsServices;
-using AccountingProject.Presentation;
-using Microsoft.AspNetCore.Authentication.JwtBearer;
-using Microsoft.EntityFrameworkCore;
-using Microsoft.OpenApi.Models;
+using AccountingProject.Domain.App.Entities.Identity;
+using AccountingProject.WebAPI.Configurations;
+using Microsoft.AspNetCore.Identity;
 
 var builder = WebApplication.CreateBuilder(args);
 
-builder.Services.AddDbContext<AppDbContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("SqlServer")));
-builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssembly(typeof(AccountingProject.Application.AssemblyReference).Assembly));
-builder.Services.AddAutoMapper(typeof(AccountingProject.Persistance.AssemblyReference).Assembly);
-builder.Services.AddTransient<ICompanyService, CompanyService>();
+builder.Services.InstallServices(builder.Configuration, typeof(IServiceInstaller).Assembly);
+
 // Add services to the container.
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
-builder.Services.AddOpenApi();
-
-builder.Services.AddControllers().AddApplicationPart(typeof(AssemblyReference).Assembly);
-
-builder.Services.AddSwaggerGen(setup =>
-{
-
-    var jwtSecurityScheme = new OpenApiSecurityScheme
-    {
-        BearerFormat = "JWT",
-        Name = "Jwt Authentication",
-        In = ParameterLocation.Header,
-        Type = SecuritySchemeType.Http,
-        Scheme = JwtBearerDefaults.AuthenticationScheme,
-        Description = "JWT",
-        Reference = new OpenApiReference
-        {
-            Id = JwtBearerDefaults.AuthenticationScheme,
-            Type = ReferenceType.SecurityScheme
-        }
-    };
-
-
-    setup.AddSecurityDefinition(jwtSecurityScheme.Reference.Id, jwtSecurityScheme);
-
-    setup.AddSecurityRequirement(new OpenApiSecurityRequirement{
-
-     {jwtSecurityScheme,Array.Empty<string>()}
-
-    });
-
-});
 
 var app = builder.Build();
-
+app.UseAuthentication();
+app.UseAuthorization();
 app.MapControllers();
 
 // Configure the HTTP request pipeline.
@@ -68,5 +28,25 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+using (var scoped = app.Services.CreateScope())
+{
+    var userManager = scoped.ServiceProvider.GetService<UserManager<AppUser>>();
+    if (!userManager.Users.Any())
+    {
+        userManager.CreateAsync(new AppUser{
+         UserName="huseyin",
+         Email="huseyin@gmail.com",
+         Id=Guid.NewGuid().ToString(),
+         FullName="huseyincangur",
+         
+
+        },"Password12*").Wait();
+
+    }
+
+
+}
+
 
 app.Run();

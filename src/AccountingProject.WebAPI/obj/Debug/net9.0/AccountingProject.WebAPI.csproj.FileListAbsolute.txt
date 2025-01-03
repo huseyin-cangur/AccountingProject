@@ -170,3 +170,5 @@ C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\AccountingProject.WebAP
 C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\AccountingProject.WebAPI\bin\Debug\net9.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\AccountingProject.WebAPI\bin\Debug\net9.0\AccountingProject.Application.dll
 C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\AccountingProject.WebAPI\bin\Debug\net9.0\AccountingProject.Application.pdb
+C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\AccountingProject.WebAPI\bin\Debug\net9.0\AccountingProject.Infrastructure.dll
+C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\AccountingProject.WebAPI\bin\Debug\net9.0\AccountingProject.Infrastructure.pdb

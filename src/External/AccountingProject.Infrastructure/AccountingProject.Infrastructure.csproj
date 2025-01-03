@@ -5,5 +5,12 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
+ <ItemGroup>
+ <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="9.0.0"/>
+  <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="9.0.0"/>
+ </ItemGroup>
+  <ItemGroup>
+   <ProjectReference Include="..\..\Core\AccountingProject.Application\AccountingProject.Application.csproj"/>
+  </ItemGroup>
 
 </Project>

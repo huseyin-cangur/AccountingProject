@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v9.0": {
       "AccountingProject.WebAPI/1.0.0": {
         "dependencies": {
+          "AccountingProject.InfraStructure": "1.0.0",
           "AccountingProject.Persistance": "1.0.0",
           "AccountingProject.Presentation": "1.0.0",
           "AutoMapper": "13.0.1",
@@ -1090,6 +1091,19 @@
           }
         }
       },
+      "AccountingProject.InfraStructure/1.0.0": {
+        "dependencies": {
+          "AccountingProject.Application": "1.0.0",
+          "Microsoft.AspNetCore.Authentication.JwtBearer": "9.0.0",
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "9.0.0"
+        },
+        "runtime": {
+          "AccountingProject.InfraStructure.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "AccountingProject.Persistance/1.0.0": {
         "dependencies": {
           "AccountingProject.Application": "1.0.0",
@@ -1771,6 +1785,11 @@
       "sha512": ""
     },
     "AccountingProject.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AccountingProject.InfraStructure/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

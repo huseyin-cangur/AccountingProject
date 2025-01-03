@@ -1840,6 +1840,21 @@
           "bin/placeholder/AccountingProject.Domain.dll": {}
         }
       },
+      "AccountingProject.InfraStructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "AccountingProject.Application": "1.0.0",
+          "Microsoft.AspNetCore.Authentication.JwtBearer": "9.0.0",
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "9.0.0"
+        },
+        "compile": {
+          "bin/placeholder/AccountingProject.InfraStructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AccountingProject.InfraStructure.dll": {}
+        }
+      },
       "AccountingProject.Persistance/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
@@ -5246,6 +5261,11 @@
       "path": "../Core/AccountingProject.Domain/AccountingProject.Domain.csproj",
       "msbuildProject": "../Core/AccountingProject.Domain/AccountingProject.Domain.csproj"
     },
+    "AccountingProject.InfraStructure/1.0.0": {
+      "type": "project",
+      "path": "../External/AccountingProject.InfraStructure/AccountingProject.InfraStructure.csproj",
+      "msbuildProject": "../External/AccountingProject.InfraStructure/AccountingProject.InfraStructure.csproj"
+    },
     "AccountingProject.Persistance/1.0.0": {
       "type": "project",
       "path": "../External/AccountingProject.Persistance/AccountingProject.Persistance.csproj",
@@ -5259,6 +5279,7 @@
   },
   "projectFileDependencyGroups": {
     "net9.0": [
+      "AccountingProject.InfraStructure >= 1.0.0",
       "AccountingProject.Persistance >= 1.0.0",
       "AccountingProject.Presentation >= 1.0.0",
       "AutoMapper >= 13.0.1",
@@ -5303,6 +5324,9 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
+            "C:\\Users\\husey\\OneDrive\\Masaüstü\\AccountingProject\\src\\External\\AccountingProject.InfraStructure\\AccountingProject.InfraStructure.csproj": {
+              "projectPath": "C:\\Users\\husey\\OneDrive\\Masaüstü\\AccountingProject\\src\\External\\AccountingProject.InfraStructure\\AccountingProject.InfraStructure.csproj"
+            },
             "C:\\Users\\husey\\OneDrive\\Masaüstü\\AccountingProject\\src\\External\\AccountingProject.Persistance\\AccountingProject.Persistance.csproj": {
               "projectPath": "C:\\Users\\husey\\OneDrive\\Masaüstü\\AccountingProject\\src\\External\\AccountingProject.Persistance\\AccountingProject.Persistance.csproj"
             },
@@ -5389,7 +5413,7 @@
       "code": "NU1608",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Detected package version outside of dependency constraint: MediatR.Extensions.Microsoft.DependencyInjection 11.1.0 requires MediatR (>= 11.0.0 && < 12.0.0) but version MediatR 12.4.1 was resolved.",
+      "message": "Bağımlılık kısıtlaması dışında algılanan paket sürümü: MediatR.Extensions.Microsoft.DependencyInjection 11.1.0, MediatR (>= 11.0.0 && < 12.0.0) gerektiriyor ancak sürüm MediatR 12.4.1 çözümlenmiş.",
       "libraryId": "MediatR",
       "targetGraphs": [
         "net9.0"
