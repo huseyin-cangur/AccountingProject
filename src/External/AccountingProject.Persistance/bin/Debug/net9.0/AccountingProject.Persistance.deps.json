@@ -1090,6 +1090,7 @@
       "AccountingProject.Application/1.0.0": {
         "dependencies": {
           "AccountingProject.Domain": "1.0.0",
+          "AutoMapper": "13.0.1",
           "MediatR": "12.4.1"
         },
         "runtime": {

@@ -1818,6 +1818,7 @@
         "framework": ".NETCoreApp,Version=v9.0",
         "dependencies": {
           "AccountingProject.Domain": "1.0.0",
+          "AutoMapper": "13.0.1",
           "MediatR": "12.4.1"
         },
         "compile": {
@@ -1840,7 +1841,7 @@
           "bin/placeholder/AccountingProject.Domain.dll": {}
         }
       },
-      "AccountingProject.InfraStructure/1.0.0": {
+      "AccountingProject.Infrastructure/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
         "dependencies": {
@@ -1849,10 +1850,10 @@
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "9.0.0"
         },
         "compile": {
-          "bin/placeholder/AccountingProject.InfraStructure.dll": {}
+          "bin/placeholder/AccountingProject.Infrastructure.dll": {}
         },
         "runtime": {
-          "bin/placeholder/AccountingProject.InfraStructure.dll": {}
+          "bin/placeholder/AccountingProject.Infrastructure.dll": {}
         }
       },
       "AccountingProject.Persistance/1.0.0": {
@@ -5261,10 +5262,10 @@
       "path": "../Core/AccountingProject.Domain/AccountingProject.Domain.csproj",
       "msbuildProject": "../Core/AccountingProject.Domain/AccountingProject.Domain.csproj"
     },
-    "AccountingProject.InfraStructure/1.0.0": {
+    "AccountingProject.Infrastructure/1.0.0": {
       "type": "project",
-      "path": "../External/AccountingProject.InfraStructure/AccountingProject.InfraStructure.csproj",
-      "msbuildProject": "../External/AccountingProject.InfraStructure/AccountingProject.InfraStructure.csproj"
+      "path": "../External/AccountingProject.Infrastructure/AccountingProject.Infrastructure.csproj",
+      "msbuildProject": "../External/AccountingProject.Infrastructure/AccountingProject.Infrastructure.csproj"
     },
     "AccountingProject.Persistance/1.0.0": {
       "type": "project",
@@ -5279,7 +5280,7 @@
   },
   "projectFileDependencyGroups": {
     "net9.0": [
-      "AccountingProject.InfraStructure >= 1.0.0",
+      "AccountingProject.Infrastructure >= 1.0.0",
       "AccountingProject.Persistance >= 1.0.0",
       "AccountingProject.Presentation >= 1.0.0",
       "AutoMapper >= 13.0.1",
@@ -5324,8 +5325,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\husey\\OneDrive\\Masaüstü\\AccountingProject\\src\\External\\AccountingProject.InfraStructure\\AccountingProject.InfraStructure.csproj": {
-              "projectPath": "C:\\Users\\husey\\OneDrive\\Masaüstü\\AccountingProject\\src\\External\\AccountingProject.InfraStructure\\AccountingProject.InfraStructure.csproj"
+            "C:\\Users\\husey\\OneDrive\\Masaüstü\\AccountingProject\\src\\External\\AccountingProject.Infrastructure\\AccountingProject.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\husey\\OneDrive\\Masaüstü\\AccountingProject\\src\\External\\AccountingProject.Infrastructure\\AccountingProject.Infrastructure.csproj"
             },
             "C:\\Users\\husey\\OneDrive\\Masaüstü\\AccountingProject\\src\\External\\AccountingProject.Persistance\\AccountingProject.Persistance.csproj": {
               "projectPath": "C:\\Users\\husey\\OneDrive\\Masaüstü\\AccountingProject\\src\\External\\AccountingProject.Persistance\\AccountingProject.Persistance.csproj"

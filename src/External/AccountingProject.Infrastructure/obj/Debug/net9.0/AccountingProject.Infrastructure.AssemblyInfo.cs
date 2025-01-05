@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AccountingProject.InfraStructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+42426817de09fcc2f8df77f45b5f2adb2293a3fe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a33c6ad2721b16bbb93fcbf220f8e5b97551384")]
 [assembly: System.Reflection.AssemblyProductAttribute("AccountingProject.InfraStructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AccountingProject.InfraStructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
