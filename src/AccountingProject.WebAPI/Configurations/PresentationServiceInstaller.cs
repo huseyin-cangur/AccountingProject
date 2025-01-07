@@ -1,6 +1,7 @@
 
 
 
+using AccountingProject.WebAPI.Middleware;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.OpenApi.Models;
 
@@ -10,6 +11,7 @@ namespace AccountingProject.WebAPI.Configurations
     {
         public void Install(IServiceCollection services, IConfiguration configuration)
         {
+            services.AddScoped<ExceptionMiddleware>();
             services.AddOpenApi();
 
             services.AddControllers().AddApplicationPart(typeof(AccountingProject.Presentation.AssemblyReference).Assembly);

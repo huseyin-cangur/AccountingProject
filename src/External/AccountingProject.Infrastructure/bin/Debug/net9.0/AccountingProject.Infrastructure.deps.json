@@ -6,14 +6,14 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v9.0": {
-      "AccountingProject.InfraStructure/1.0.0": {
+      "AccountingProject.Infrastructure/1.0.0": {
         "dependencies": {
           "AccountingProject.Application": "1.0.0",
           "Microsoft.AspNetCore.Authentication.JwtBearer": "9.0.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "9.0.0"
         },
         "runtime": {
-          "AccountingProject.InfraStructure.dll": {}
+          "AccountingProject.Infrastructure.dll": {}
         }
       },
       "AutoMapper/13.0.1": {
@@ -274,7 +274,7 @@
     }
   },
   "libraries": {
-    "AccountingProject.InfraStructure/1.0.0": {
+    "AccountingProject.Infrastructure/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

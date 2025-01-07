@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("AccountingProject.InfraStructure")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("AccountingProject.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a33c6ad2721b16bbb93fcbf220f8e5b97551384")]
-[assembly: System.Reflection.AssemblyProductAttribute("AccountingProject.InfraStructure")]
-[assembly: System.Reflection.AssemblyTitleAttribute("AccountingProject.InfraStructure")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0fda785c05733728d466f54953ae5707332bab51")]
+[assembly: System.Reflection.AssemblyProductAttribute("AccountingProject.Infrastructure")]
+[assembly: System.Reflection.AssemblyTitleAttribute("AccountingProject.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.

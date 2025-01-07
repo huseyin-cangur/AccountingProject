@@ -15,4 +15,4 @@ C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\External\AccountingProj
 C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\External\AccountingProject.Infrastructure\obj\Debug\net9.0\refint\AccountingProject.Infrastructure.dll
 C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\External\AccountingProject.Infrastructure\obj\Debug\net9.0\AccountingProject.Infrastructure.pdb
 C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\External\AccountingProject.Infrastructure\obj\Debug\net9.0\ref\AccountingProject.Infrastructure.dll
-C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\External\AccountingProject.InfraStructure\obj\Debug\net9.0\Accounti.53E56120.Up2Date
+C:\Users\husey\OneDrive\Masaüstü\AccountingProject\src\External\AccountingProject.Infrastructure\obj\Debug\net9.0\Accounti.5124A13D.Up2Date

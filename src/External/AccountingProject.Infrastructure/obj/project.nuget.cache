@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s9jRsl1jh2M=",
+  "dgSpecHash": "s1mdNdVTZmE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\husey\\OneDrive\\Masaüstü\\AccountingProject\\src\\External\\AccountingProject.Infrastructure\\AccountingProject.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\husey\\OneDrive\\Masaüstü\\AccountingProject\\src\\External\\AccountingProject.InfraStructure\\AccountingProject.InfraStructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\husey\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\husey\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",

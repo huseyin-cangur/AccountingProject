@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\husey\\OneDrive\\Masaüstü\\AccountingProject\\src\\External\\AccountingProject.Infrastructure\\AccountingProject.Infrastructure.csproj": {}
+    "C:\\Users\\husey\\OneDrive\\Masaüstü\\AccountingProject\\src\\External\\AccountingProject.InfraStructure\\AccountingProject.InfraStructure.csproj": {}
   },
   "projects": {
     "C:\\Users\\husey\\OneDrive\\Masaüstü\\AccountingProject\\src\\Core\\AccountingProject.Application\\AccountingProject.Application.csproj": {
@@ -154,14 +154,14 @@
         }
       }
     },
-    "C:\\Users\\husey\\OneDrive\\Masaüstü\\AccountingProject\\src\\External\\AccountingProject.Infrastructure\\AccountingProject.Infrastructure.csproj": {
+    "C:\\Users\\husey\\OneDrive\\Masaüstü\\AccountingProject\\src\\External\\AccountingProject.InfraStructure\\AccountingProject.InfraStructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\husey\\OneDrive\\Masaüstü\\AccountingProject\\src\\External\\AccountingProject.Infrastructure\\AccountingProject.Infrastructure.csproj",
-        "projectName": "AccountingProject.Infrastructure",
-        "projectPath": "C:\\Users\\husey\\OneDrive\\Masaüstü\\AccountingProject\\src\\External\\AccountingProject.Infrastructure\\AccountingProject.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\husey\\OneDrive\\Masaüstü\\AccountingProject\\src\\External\\AccountingProject.InfraStructure\\AccountingProject.InfraStructure.csproj",
+        "projectName": "AccountingProject.InfraStructure",
+        "projectPath": "C:\\Users\\husey\\OneDrive\\Masaüstü\\AccountingProject\\src\\External\\AccountingProject.InfraStructure\\AccountingProject.InfraStructure.csproj",
         "packagesPath": "C:\\Users\\husey\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\husey\\OneDrive\\Masaüstü\\AccountingProject\\src\\External\\AccountingProject.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\husey\\OneDrive\\Masaüstü\\AccountingProject\\src\\External\\AccountingProject.InfraStructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

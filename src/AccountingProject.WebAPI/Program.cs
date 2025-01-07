@@ -2,6 +2,7 @@
 
 using AccountingProject.Domain.App.Entities.Identity;
 using AccountingProject.WebAPI.Configurations;
+using AccountingProject.WebAPI.Middleware;
 using Microsoft.AspNetCore.Identity;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -26,7 +27,7 @@ if (app.Environment.IsDevelopment())
     //     options.SwaggerEndpoint("/swagger/v1/swagger.json","My Test Api V1");
     // });
 }
-
+app.UseExceptionMiddleware();
 app.UseHttpsRedirection();
 
 using (var scoped = app.Services.CreateScope())
